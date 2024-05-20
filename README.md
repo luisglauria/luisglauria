@@ -6,7 +6,6 @@
 - 🎮 **Jogos Eletrônicos**: Gosto de jogar jogos de fps com meus amigos.
 - 🛡️ **Cibersegurança**: Tenho um grande interesse em cibersegurança e pretendo seguir uma carreira nesta área. A proteção de informações e a defesa contra ameaças digitais são campos que me fascinam.
 - 🥋 **Jiu-Jitsu**: Pratico jiu-jitsu, o que me ajuda a manter o equilíbrio entre a mente e o corpo. A disciplina e a perseverança aprendidas no tatame são valores que levo para todas as áreas da minha vida.
-
 <img align='right' src="https://media1.tenor.com/m/6Tc-POkXDgYAAAAC/epic-rick-and-morty.gif" width="300">
 
 ## Projetos
