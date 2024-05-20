@@ -19,7 +19,7 @@ Estou começando a trabalhar em alguns projetos interessantes e vou compartilhar
 - Contribuir para projetos open-source e colaborar com a comunidade.
 
 <div style="text-align: right;">
-  <img src="https://media1.tenor.com/m/6Tc-POkXDgYAAAAC/epic-rick-and-morty.gif" alt="GIF" width="300"/>
+  <img src="https://media1.tenor.com/m/6Tc-POkXDgYAAAAC/epic-rick-and-morty.gif" alt="GIF" width="500"/>
 </div>
 
 ## Contato
