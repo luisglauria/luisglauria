@@ -20,7 +20,7 @@ Estou começando a trabalhar em alguns projetos interessantes e vou compartilhar
 
 ### Tecnologias que eu uso diariamente:
 <div style="display:inline_block"><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="html5" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
 <img align="center" alt="CSS" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
 <img align="center" alt="Python" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">
