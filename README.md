@@ -18,7 +18,9 @@ Estou começando a trabalhar em alguns projetos interessantes e vou compartilhar
 - Explorar diferentes áreas da ciência da computação para encontrar minhas verdadeiras paixões.
 - Contribuir para projetos open-source e colaborar com a comunidade.
 
-- ![GIF](https://media.giphy.com/media/26xBuwme0QdR6pBTu/giphy.gif)
+<div style="text-align: right;">
+  <img src="[https://media.giphy.com/media/26xBuwme0QdR6pBTu/giphy.gif](https://tenor.com/pt-PT/view/epic-rick-and-morty-travel-shades-on-driving-gif-15747325?utm_source=share-button&utm_medium=Social&utm_content=pinterest)" alt="GIF" width="300"/>
+</div>
 
 ## Contato
 
