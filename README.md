@@ -1,4 +1,5 @@
 # Sobre Mim
+<img align='right' src="https://media1.tenor.com/m/6Tc-POkXDgYAAAAC/epic-rick-and-morty.gif" width="300">
 
 👋 Olá! Eu sou Luís, estudante de Ciência da Computação no primeiro período. Sou apaixonado por tecnologia e estou empolgado para explorar as possibilidades que essa área oferece. Aqui está um pouco mais sobre mim:
 
@@ -7,8 +8,6 @@
 - 🛡️ **Cibersegurança**: Tenho um grande interesse em cibersegurança e pretendo seguir uma carreira nesta área. A proteção de informações e a defesa contra ameaças digitais são campos que me fascinam.
 - 🥋 **Jiu-Jitsu**: Pratico jiu-jitsu, o que me ajuda a manter o equilíbrio entre a mente e o corpo. A disciplina e a perseverança aprendidas no tatame são valores que levo para todas as áreas da minha vida.
   
-<img align='right' src="https://media1.tenor.com/m/6Tc-POkXDgYAAAAC/epic-rick-and-morty.gif" width="300">
-
 ## Projetos
 
 Estou começando a trabalhar em alguns projetos interessantes e vou compartilhar mais aqui conforme avanço nos meus estudos.
