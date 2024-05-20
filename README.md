@@ -19,6 +19,7 @@ Estou começando a trabalhar em alguns projetos interessantes e vou compartilhar
 - Contribuir para projetos open-source e colaborar com a comunidade.
 
 ### Tecnologias que eu uso diariamente:
+
 <div style="display:inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
 <img align="center" alt="CSS" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
