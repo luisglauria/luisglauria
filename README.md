@@ -16,11 +16,11 @@ Estou começando a trabalhar em alguns projetos interessantes e vou compartilhar
 
 - Aprender e dominar as bases da programação.
 - Explorar diferentes áreas da ciência da computação para encontrar minhas verdadeiras paixões.
-- Contribuir para projetos open-source e colaborar com a comunidade.
-
-<sup align="right">
+- Contribuir para projetos open-source e colaborar com a comunidade.                                    <sup align="right">
   <img src="https://media1.tenor.com/m/6Tc-POkXDgYAAAAC/epic-rick-and-morty.gif" alt="GIF" width="500"/>
 </sup>
+
+
 
 ## Contato
 
